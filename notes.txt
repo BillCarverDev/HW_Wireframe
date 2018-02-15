@@ -1,0 +1,6 @@
+
+
+
+Don't forget to review these concepts: 
+float, padding, margin, display, overflow, clear and text-align.
+This will be a tough assignment. But 23 weeks from now, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive!
